@@ -1,0 +1,14 @@
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\bin\Debug\net8.0\PracticaOOP.exe
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\bin\Debug\net8.0\PracticaOOP.deps.json
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\bin\Debug\net8.0\PracticaOOP.runtimeconfig.json
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\bin\Debug\net8.0\PracticaOOP.dll
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\bin\Debug\net8.0\PracticaOOP.pdb
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.AssemblyInfoInputs.cache
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.AssemblyInfo.cs
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.dll
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\refint\PracticaOOP.dll
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.pdb
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\PracticaOOP.genruntimeconfig.cache
+C:\Users\Desarrollador\source\repos\PracticaOOP\PracticaOOP\obj\Debug\net8.0\ref\PracticaOOP.dll
